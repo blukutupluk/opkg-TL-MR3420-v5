@@ -1,2 +1,1 @@
-# opkg-TL-MR3420-v5-base
-# opkg-TL-MR3420-v5-luci
+# opkg-TL-MR3420-v5-base dapat compiling dari tutorialan..buat pribadi ambil juga boleh
